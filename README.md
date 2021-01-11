@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Web programing with React and python
+- 🌱 I’m currently learning web programing with React and Python
 - 📫 How to reach me:
   - email: edtavera3@gmail.com
   - instagram: https://www.instagram.com/ed_coder_/
