@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning web programing with React and Python
+- 🌱 I’m currently learning python and flask
 - 📫 How to reach me:
   - email: edtavera3@gmail.com
   - instagram: @ed_coder_
