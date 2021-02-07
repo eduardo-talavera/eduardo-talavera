@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python and Flask**
 
+- 📶 I'm interested in learning **IoT**
+
 - 👨‍💻 All of my projects are available at [https://eduardo-talavera.github.io/](https://eduardo-talavera.github.io/)
 
 - 💬 Ask me about **react, vue, webpack, express**
