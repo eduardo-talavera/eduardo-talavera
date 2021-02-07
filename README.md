@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eduardo-talavera.github.io/](https://eduardo-talavera.github.io/)
 
-- 💬 Ask me about **react, vue, webpack, express**
+- 💬 Ask me about **React, Vue, Webpack, Node & Express**
 
 - 📫 How to reach me **edtavera3@gmail.com**
 
