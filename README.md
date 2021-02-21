@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo Talavera  👋</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ed_coder_" target="blank"><img src="https://img.shields.io/twitter/follow/ed_coder_?logo=twitter&style=for-the-badge" alt="ed_coder_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ed_talavera" target="blank"><img src="https://img.shields.io/twitter/follow/ed_coder_?logo=twitter&style=for-the-badge" alt="ed_talavera" /></a> </p>
 
 
 - 🌱 I’m currently learning **Python and Flask**
@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ed_coder_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ed_coder_" height="30" width="40" /></a>
-<a href="https://twitter.com/ed_coder_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ed_coder_" height="30" width="40" /></a>
+<a href="https://twitter.com/ed_talavera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ed_talavera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devtaed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devtaed" height="30" width="40" /></a>
-<a href="https://instagram.com/ed_coder_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ed_coder_" height="30" width="40" /></a>
+<a href="https://instagram.com/ed_talavera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ed_talavera" height="30" width="40" /></a>
 </p>
 
