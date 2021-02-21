@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo Talavera  👋</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ed_talavera" target="blank"><img src="https://img.shields.io/twitter/follow/ed_coder_?logo=twitter&style=for-the-badge" alt="ed_talavera" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ed_talavera" target="blank"><img src="https://img.shields.io/twitter/follow/ed_talavera?logo=twitter&style=for-the-badge" alt="ed_talavera" /></a> </p>
 
 
 - 🌱 I’m currently learning **Python and Flask**
