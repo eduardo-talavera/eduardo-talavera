@@ -21,6 +21,5 @@
 <a href="https://dev.to/ed_coder_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ed_coder_" height="30" width="40" /></a>
 <a href="https://twitter.com/ed_talavera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ed_talavera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devtaed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devtaed" height="30" width="40" /></a>
-<a href="https://instagram.com/ed_talavera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ed_talavera" height="30" width="40" /></a>
 </p>
 
