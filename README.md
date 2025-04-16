@@ -4,11 +4,9 @@
 <p align="left"> <a href="https://twitter.com/ed_talavera" target="blank"><img src="https://img.shields.io/twitter/follow/ed_talavera?logo=twitter&style=for-the-badge" alt="ed_talavera" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python and Flask**
+- 🌱 I’m currently learning **Next and Nest**
 
-- 📶 I'm interested in learning **IoT**
-
-- 👨‍💻 All of my projects are available at [https://eduardo-talavera.github.io/](https://eduardo-talavera.github.io/)
+- 📶 I'm interested in learning **Generative AI**
 
 - 💬 Ask me about **React, Vue, Webpack, Node & Express**
 
