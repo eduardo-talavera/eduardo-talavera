@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ed_talavera" target="blank"><img src="https://img.shields.io/twitter/follow/ed_talavera?logo=twitter&style=for-the-badge" alt="ed_talavera" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next and Nest**
+- 🌱 I’m currently learning **Micro frontends, C# and .NET**
 
 - 📶 I'm interested in learning **Generative AI**
 
