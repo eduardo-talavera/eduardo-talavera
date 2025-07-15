@@ -48,6 +48,14 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
 </div>
 
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
+
+
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
@@ -55,11 +63,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=buefy&hide_border=false" />
 </div>
 
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'ed_talavera' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ed_talavera" /></a>
-</div>
 
 ###
