@@ -51,17 +51,15 @@
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=flat&column=7&margin-w=15&margin-h=15" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
-
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=buefy&hide_border=false" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=radical&hide_border=false" />
 </div>
-
 
 ###
