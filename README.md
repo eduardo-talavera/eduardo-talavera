@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2019<br>
-  👽 I am currently working on Tropix UI, a component library to facilitate UI integration.
-  📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability<br>
-  🎯 Goals: Improve day by day as a developer <br>
+  ✨ Creating bugs since 2019.<br>
+  👽 I'm currently working on Tropix UI, a component library to facilitate UI integration.<br>
+  📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability.<br>
+  🎯 Goals: Improve day by day as a developer.<br>
   👀 I'm interested in: Open-source contribution, UI/UX design, cloud architectures</p>
 
 ###
