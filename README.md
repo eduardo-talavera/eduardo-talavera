@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability<br>🎯 Goals: Improve day by day as a developer <br>👀 I'm interested in: Open-source contribution, UI/UX design, cloud architectures</p>
+<p align="left">
+  ✨ Creating bugs since 2019<br>
+  👽 I am currently working on Tropix UI, a component library to facilitate UI integration.
+  📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability<br>
+  🎯 Goals: Improve day by day as a developer <br>
+  👀 I'm interested in: Open-source contribution, UI/UX design, cloud architectures</p>
 
 ###
 
@@ -29,9 +34,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -57,7 +66,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongpdb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
 </div>
 
 ## 🏆 GitHub Trophies
