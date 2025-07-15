@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -76,7 +76,7 @@
 
 ## 🌐 Socials
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/eduardo-talavera"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/devtaed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/ed_talavera"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
 
@@ -84,7 +84,7 @@
 
 ## 📫 How to reach me
 
-<div align="center">
+<div align="left">
 
 **Email:** talaverae4@gmail.com
 **Phone:** +52 33 1883 1774
@@ -95,19 +95,19 @@
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=radical&hide_border=false" />
 </div>
 
 ## 👾 Contribution Graph
-<picture align="center">
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
