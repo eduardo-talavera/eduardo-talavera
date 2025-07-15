@@ -1,18 +1,24 @@
-# Hi 👋, I'm Edgar Eduardo Talavera Contreras
+<div align="center">
 
-**I am a software developer with more than 4 years of experience working with web technologies such as Typescript, React, Vue, Node js and Express**
+# ✨ Edgar Eduardo Talavera Contreras ✨
+
+<p><em>I am a software developer with more than 4 years of experience working with web technologies such as Typescript, React, Vue, Node js and Express</em></p>
+
+<hr>
+
+</div>
 
 ## 🔭 I'm currently working on
 
-Working on a new open-source project for simplify UI integrations
+<div align="center"><p>Working on a new open-source project for simplify UI integrations</p></div>
 
 ## 🌱 I'm currently learning
 
-Learning microservices architecture and serverless application development to improve web performance and scalability
+<div align="center"><p>Learning microservices architecture and serverless application development to improve web performance and scalability</p></div>
 
 ## 👀 I'm interested in
 
-Open-source contribution, UI/UX design, cloud architectures
+<div align="center"><p>Open-source contribution, UI/UX design, cloud architectures</p></div>
 
 ## 🏆 GitHub Trophies
 
@@ -25,7 +31,7 @@ Open-source contribution, UI/UX design, cloud architectures
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=default&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=buefy&hide_border=false" />
 </div>
 
 ## 🐦 Latest Tweet
@@ -37,48 +43,49 @@ Open-source contribution, UI/UX design, cloud architectures
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<img src="https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> <img src="https://img.shields.io/badge/Material UI-ff69b4?style=for-the-badge&logo=material ui&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-ff69b4?style=for-the-badge&logo=sass&logoColor=white" /> 
+**🎨 Frontend**
 
-### ⚙️ Backend
+`Vue.js` • `React` • `Next.js` • `Tailwind` • `Material UI` • `CSS3` • `HTML5` • `Sass`
 
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+**⚙️ Backend**
 
-### 🚀 DevOps
+`Node.js` • `Express` • `PostgreSQL` • `MongoDB` • `MySQL`
 
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-9370db?style=for-the-badge&logo=aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-9370db?style=for-the-badge&logo=azure&logoColor=white" /> 
+**🚀 DevOps**
 
-### 💬 Languages
+`Docker` • `GitHub Actions` • `AWS` • `Azure`
 
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> 
+**📱 Mobile**
 
-### 📱 Mobile
+`React Native`
 
-<img src="https://img.shields.io/badge/React Native-3CB371?style=for-the-badge&logo=react native&logoColor=white" /> 
+**💬 Languages**
+
+`JavaScript` • `TypeScript`
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtaed/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ed_talavera) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/eduardo-talavera) 
+<a href="https://github.com/eduardo-talavera"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/devtaed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/ed_talavera"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [talaverae4@gmail.com](mailto:talaverae4@gmail.com)
-
-📱 **Phone:** +52 33 1883 1774
+**Email:** talaverae4@gmail.com
+**Phone:** +52 33 1883 1774
 
 </div>
 
----
-⭐️ From [Edgar Eduardo Talavera Contreras](https://github.com/eduardo-talavera)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eduardo-talavera/count.svg" alt="Visitor Count" />
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
 </div>
