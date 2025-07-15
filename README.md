@@ -57,16 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
-###
-
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=eduardo-talavera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
