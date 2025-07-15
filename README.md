@@ -54,8 +54,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
