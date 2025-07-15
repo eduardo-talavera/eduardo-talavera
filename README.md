@@ -48,12 +48,24 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-talavera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-talavera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ## 🔥 Contribution Streak
 
