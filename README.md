@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -95,19 +95,19 @@
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=radical&hide_border=false" />
 </div>
 
 ## 👾 Contribution Graph
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
