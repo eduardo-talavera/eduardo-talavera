@@ -1,8 +1,9 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋I'm Edgar Eduardo Talavera</h1>
 
 ###
 
 <div align="center">
+  <h2 align="center">Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
