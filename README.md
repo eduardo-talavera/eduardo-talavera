@@ -74,8 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=radical&hide_border=false" />
 </div>
 
-###
-
+## 👾 Contribution graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardo-talavera/eduardo-talavera/output/pacman-contribution-graph.svg">
