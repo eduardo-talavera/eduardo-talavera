@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">
   ✨ Creating bugs since 2019.<br>
   👽 I'm currently working on [Tropix UI](https://tropix-ui-docs.vercel.app/), a component library to facilitate UI integration.<br>
   📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability.<br>
