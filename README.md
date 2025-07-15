@@ -74,6 +74,24 @@
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
 </div>
 
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/eduardo-talavera"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/devtaed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/ed_talavera"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** talaverae4@gmail.com
+**Phone:** +52 33 1883 1774
+
+</div>
+
+
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
