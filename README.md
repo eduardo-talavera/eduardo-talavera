@@ -77,9 +77,8 @@
 ## 🌐 Socials
 
 <div align="left">
-
-<a href="https://github.com/eduardo-talavera"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/devtaed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a> <a href="https://x.com/ed_talavera"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
-
+<a href="https://www.linkedin.com/in/devtaed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a> 
+<a href="https://x.com/ed_talavera"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
 </div>
 
 ## 📫 How to reach me
