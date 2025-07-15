@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability<br>🎯 Goals: Improve day by day as a developer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning microservices architecture and serverless application development to improve web performance and scalability<br>🎯 Goals: Improve day by day as a developer <br>I'm interested in: Open-source contribution, UI/UX design, cloud architectures</p>
 
 ###
 
@@ -46,6 +46,20 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'eduardo-talavera' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-talavera&theme=buefy&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'ed_talavera' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ed_talavera" /></a>
 </div>
 
 ###
