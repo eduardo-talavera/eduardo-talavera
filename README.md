@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Edgar Eduardo and I'm a Frontend Developer, from México</p>
+<p align="left">My name is Edgar Eduardo and I'm a Web Developer, from México</p>
 
 ###
 
