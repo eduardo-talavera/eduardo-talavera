@@ -85,8 +85,7 @@
 
 <div align="left">
 
-**Email:** talaverae4@gmail.com
-**Phone:** +52 33 1883 1774
+**Email:** edgar.developer.talavera77@gmail.com
 
 </div>
 
