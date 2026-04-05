@@ -92,7 +92,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=eduardo-talavera)
+![](https://github-trophies.vercel.app/?username=eduardo-talavera&theme=onedark)
 
 ## 🔥 Contribution Streak
 
