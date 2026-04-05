@@ -96,6 +96,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardo-talavera&theme=onedark)](https://github.com/eduardo-talavera/github-profile-trophy)
 
 ## 🔥 Contribution Streak
 
